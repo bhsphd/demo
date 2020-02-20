@@ -2,7 +2,7 @@
 
 int main() {
 
-    std::cout << "Hello, C++!" << std::endl;
+    std::cout << "Hello, SDUST!" << std::endl;
 
     return 0;
 }
